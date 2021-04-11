@@ -1,0 +1,35 @@
+body
+{
+font-family:'Raleway', sans-serif;
+text-align: center;
+}
+
+table
+{
+    text-align: center;
+    margin-left: 360px;
+    width: 50%;
+
+}
+
+
+
+table td
+{
+    background-color:whitesmoke;
+}
+
+input
+{
+    width: 40%;
+}
+
+label
+{
+    margin-right: 500px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+
+
